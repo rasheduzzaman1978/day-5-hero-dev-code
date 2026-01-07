@@ -80,8 +80,8 @@ header {
 }
 
 nav {
-  width: 80%;
-  max-width: 1240px;
+  width: 71%;
+  max-width: 1140px;
   /* border: 1px solid red; */
   margin: 0px auto;
   display: flex;
